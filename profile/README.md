@@ -1,60 +1,106 @@
-# SafeLibrary
+# HouseLearning
 
-SafeLibrary is an in-house learning platform focused on providing safe, educational programs for students and teachers. Built with HTML and JavaScript, the project aims to deliver accessible, interactive, and secure resources for the classroom and beyond.
+Welcome to **HouseLearning**! We are a forward-thinking organization committed to creating innovative solutions for collaborative learning and community-building. Our mission is to empower individuals and groups to learn, grow, and achieve together.
 
-## Features
+## About Us
 
-- 📚 Curated educational content tailored for students and teachers
-- 🔒 Safety-focused design to ensure a secure learning environment
-- 💻 Simple, accessible UI built with HTML and JavaScript
-- 👩‍🏫 Tools to support both learning and teaching activities
+At HouseLearning, we believe in the power of education and community. Our platform is designed to foster a supportive environment where members can share knowledge, solve problems, and develop new skills. Whether you are a learner, educator, or enthusiast, you’ll find a home with us.
 
-## Getting Started
+## 📊 Organization Stats
 
-### Prerequisites
+![GitHub Org's visitors](https://komarev.com/ghpvc/?username=houselearning&label=Visitors&color=0e75b6&style=flat)
+![Languages](https://img.shields.io/github/languages/top/houselearning/houselearning.github.io?style=flat)
+![Repo stars](https://img.shields.io/github/stars/houselearning/houselearning.github.io?style=social)
+![Forks](https://img.shields.io/github/forks/houselearning/houselearning.github.io?style=social)
+![Followers](https://img.shields.io/github/followers/houselearning?label=Follow&style=social)
 
-- A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
-- No backend required; simply open the HTML files in your browser
+## 👥 Our Team
 
-### Running SafeLibrary
+### Owners
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ajm19826">
+        <img src="https://avatars.githubusercontent.com/ajm19826" width="80" alt="ajm19826"/><br />
+        <b>ajm19826</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OWNER2">
+        <img src="https://avatars.githubusercontent.com/OWNER2" width="80" alt="OWNER2"/><br />
+        <b>??</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-1. Clone or download this repository.
-2. Open `index.html` in your web browser.
-3. Explore the educational programs and resources.
+### Members
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MEMBER1">
+        <img src="https://avatars.githubusercontent.com/mathsite" width="70" alt="mathsite"/><br />
+        <sub><b>mathsite</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MEMBER2">
+        <img src="https://avatars.githubusercontent.com/MEMBER2" width="70" alt="MEMBER2"/><br />
+        <sub><b>MEMBER2</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MEMBER3">
+        <img src="https://avatars.githubusercontent.com/MEMBER3" width="70" alt="MEMBER3"/><br />
+        <sub><b>MEMBER3</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MEMBER4">
+        <img src="https://avatars.githubusercontent.com/MEMBER4" width="70" alt="MEMBER4"/><br />
+        <sub><b>MEMBER4</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MEMBER5">
+        <img src="https://avatars.githubusercontent.com/MEMBER5" width="70" alt="MEMBER5"/><br />
+        <sub><b>MEMBER5</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Usage
+## Join Our Team — We’re Hiring!
 
-- Students can access interactive lessons and learning tools.
-- Teachers can use and share resources or build new content.
-- All activities are designed with student safety and privacy in mind.
+Are you passionate about education, technology, and community? We’re looking for talented individuals to join our growing team! If you’re interested in making an impact and working with a dynamic, dedicated group, we want to hear from you.
 
-## Project Structure
+### Current Openings
 
-```
-/ (root)
-│-- index.html
-│-- /js
-│    └─ main.js
-│-- /css
-│    └─ styles.css
-│-- /resources
-│    └─ example-content.html
-```
+| Position            | Number of Openings |
+|---------------------|--------------------|
+| Assistant Manager   | 1                  |
+| Developer           | 3                  |
+| Community Manager   | 1                  |
+| Bug Fixer           | 3                  |
 
-## Contributing
+### **🚨 All positions are volunteer jobs! 🚨**
 
-We welcome contributions from educators and developers alike!
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/feature-name`)
-3. Commit your changes
-4. Open a pull request for review
+**If you’re interested in any of the positions above, please send your resume and a brief cover letter to [careers@houselearning.org](mailto:careers@houselearning.org). In your cover letter, let us know what excites you about HouseLearning and how you can contribute to our mission.**
 
-## License
+## Get Involved
 
-Distributed under the MIT License. See `LICENSE` for more information.
+- **Follow us:** Stay up to date with our latest news and updates.
+- **Contribute:** We welcome contributions! Check out our repos and see where you can help.
+- **Reach out:** For questions or collaborations, contact us at [info@houselearning.org](mailto:info@houselearning.org).
 
-## Contact
+## Support
 
-Maintained by the inhouselearning team.
+If you need help or want to support HouseLearning, here are some ways to get involved or seek assistance:
 
-For questions or suggestions, please open an issue or contact the project maintainers.
+- **Star our repositories:** Show your support by starring our projects on GitHub!
+- **Create issues:** If you encounter bugs, have suggestions, or need help, please open an issue in our [issue-channel repository](https://github.com/houselearning/issue-channel). Our team monitors this channel and will respond as soon as possible.
+- **Visit our website:** For more information, resources, and updates, visit our main website at [houselearning.github.io](https://houselearning.github.io).
+
+---
+
+Together, let’s build the future of collaborative learning!
