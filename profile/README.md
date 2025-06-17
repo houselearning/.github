@@ -85,13 +85,13 @@ Are you passionate about education, technology, and community? We’re looking f
 
 ### **🚨 All positions are volunteer jobs! 🚨**
 
-**If you’re interested in any of the positions above, please send your resume and a brief cover letter to [careers@houselearning.org](mailto:careers@houselearning.org). In your cover letter, let us know what excites you about HouseLearning and how you can contribute to our mission.**
+**If you’re interested in any of the positions above, please fill out this form: [Click Here](https://forms.gle/nFdyq3YB51dRgUUdA). In your cover letter, let us know what excites you about HouseLearning and how you can contribute to our mission.**
 
 ## Get Involved
 
 - **Follow us:** Stay up to date with our latest news and updates.
 - **Contribute:** We welcome contributions! Check out our repos and see where you can help.
-- **Reach out:** For questions or collaborations, contact us at [info@houselearning.org](mailto:info@houselearning.org).
+- **Reach out:** For questions or collaborations, contact us at [the discussions page](https://github.com/orgs/houselearning/discussions).
 
 ## Support
 
