@@ -38,15 +38,15 @@ At HouseLearning, we believe in the power of education and community. Our platfo
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/MEMBER1">
+      <a href="https://github.com/mathsite">
         <img src="https://avatars.githubusercontent.com/mathsite" width="70" alt="mathsite"/><br />
         <sub><b>mathsite</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MEMBER2">
-        <img src="https://avatars.githubusercontent.com/MEMBER2" width="70" alt="MEMBER2"/><br />
-        <sub><b>MEMBER2</b></sub>
+      <a href="https://github.com/loganlin233">
+        <img src="https://avatars.githubusercontent.com/loganlin233" width="70" alt="MEMBER2"/><br />
+        <sub><b>loganlin233</b></sub>
       </a>
     </td>
     <td align="center">
