@@ -16,7 +16,7 @@ At HouseLearning, we believe in the power of education and community. Our platfo
 
 ## 👥 Our Team
 
-### Owners
+### Managers
 <table>
   <tr>
     <td align="center">
