@@ -13,7 +13,6 @@ At HouseLearning, we believe in the power of education and community. Our platfo
 ![Repo stars](https://img.shields.io/github/stars/houselearning/houselearning.github.io?style=social)
 ![Forks](https://img.shields.io/github/forks/houselearning/houselearning.github.io?style=social)
 ![Followers](https://img.shields.io/github/followers/houselearning?label=Follow&style=social)
-[![trophy](https://github-profile-trophy.vercel.app/?username=houselearning)](https://github.com/houselearning)
 
 ## 👥 Our Team
 
