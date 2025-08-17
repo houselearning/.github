@@ -103,4 +103,6 @@ If you need help or want to support HouseLearning, here are some ways to get inv
 
 ---
 
-Together, let’s build the future of collaborative learning!
+Together, let’s build the future of collaborative learning!<br>
+**Developers? Click here for our notes on HouseLearning** => [Developer Notes](https://github.com/houselearning/developer-notes/)
+
