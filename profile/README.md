@@ -50,9 +50,9 @@ At HouseLearning, we believe in the power of education and community. Our platfo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MEMBER3">
-        <img src="https://avatars.githubusercontent.com/MEMBER3" width="70" alt="MEMBER3"/><br />
-        <sub><b>MEMBER3</b></sub>
+      <a href="https://github.com/BigBadWolves678">
+        <img src="https://avatars.githubusercontent.com/BigBadWolves678" width="70" alt="MEMBER3"/><br />
+        <sub><b>BigBadWolves678</b></sub>
       </a>
     </td>
     <td align="center">
