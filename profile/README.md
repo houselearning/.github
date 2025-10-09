@@ -56,9 +56,9 @@ At HouseLearning, we believe in the power of education and community. Our platfo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MEMBER4">
-        <img src="https://avatars.githubusercontent.com/MEMBER4" width="70" alt="MEMBER4"/><br />
-        <sub><b>MEMBER4</b></sub>
+      <a href="https://github.com/khalid-ameri">
+        <img src="https://avatars.githubusercontent.com/khalid-ameri" width="70" alt="Khalid Ameri"/><br />
+        <sub><b>Khalid Sal Ameri</b></sub>
       </a>
     </td>
     <td align="center">
