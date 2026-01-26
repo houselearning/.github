@@ -11,7 +11,7 @@ At HouseLearning, we believe in the power of education and community. Our platfo
 ![GitHub Org's visitors](https://komarev.com/ghpvc/?username=houselearning&label=Visitors&color=0e75b6&style=flat)
 ![Languages](https://img.shields.io/github/languages/top/houselearning/houselearning.github.io?style=flat)
 ![Repo stars](https://img.shields.io/github/stars/houselearning/home?style=social)
-![Forks](https://img.shields.io/github/forks/houselearning/houselearning.github.io?style=social)
+![Forks](https://img.shields.io/github/forks/houselearning/home?style=social)
 ![Followers](https://img.shields.io/github/followers/houselearning?label=Follow&style=social)
 
 ## 👥 Our Team
