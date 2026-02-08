@@ -9,7 +9,7 @@ At HouseLearning, we believe in the power of education and community. Our platfo
 ## 📊 Organization Stats
 
 ![GitHub Org's visitors](https://komarev.com/ghpvc/?username=houselearning&label=Visitors&color=0e75b6&style=flat)
-![Languages](https://img.shields.io/github/languages/top/houselearning/houselearning.github.io?style=flat)
+![Languages](https://img.shields.io/github/languages/top/houselearning/home?style=flat)
 ![Repo stars](https://img.shields.io/github/stars/houselearning/home?style=social)
 ![Forks](https://img.shields.io/github/forks/houselearning/home?style=social)
 ![Followers](https://img.shields.io/github/followers/houselearning?label=Follow&style=social)
@@ -99,7 +99,7 @@ If you need help or want to support HouseLearning, here are some ways to get inv
 
 - **Star our repositories:** Show your support by starring our projects on GitHub!
 - **Create issues:** If you encounter bugs, have suggestions, or need help, please open an issue in our [issue-channel repository](https://github.com/houselearning/issue-channel). Our team monitors this channel and will respond as soon as possible.
-- **Visit our website:** For more information, resources, and updates, visit our main website at [houselearning.github.io](https://houselearning.github.io).
+- **Visit our website:** For more information, resources, and updates, visit our main website at [houselearning.org](https://houselearning.org).
 
 ---
 
