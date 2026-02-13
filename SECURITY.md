@@ -33,7 +33,7 @@
 
 ## Reporting a Vulnerability
 
-Feel free to report a vulnerability. To check the API key reporting rules, [click here](api-key-standards.md).
+Feel free to report a vulnerability. To check the API key reporting rules, [click here](https://github.com/houselearning/docs/blob/main/markdown/api-key-standards.md).
 <br>
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
