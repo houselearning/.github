@@ -1,7 +1,8 @@
 # HouseLearning Security Policy
 
 ## Security Supported
-
+All unarchived repositories.
+<!--
 | Repository | Status          |
 | ------- | ------------------ |
 | ad-system   | :white_check_mark: |
@@ -31,7 +32,7 @@
 | SynthwaveAI   | :white_check_mark: |
 | testdomain   | :file_cabinet: |
 | BasicAritEngine | :white_check_mark: |
-| PhysicsEngine | :white_check_mark: |
+| PhysicsEngine | :white_check_mark: |-->
 ## Reporting a Vulnerability
 
 Feel free to report a vulnerability. To check the API key reporting rules, [click here](https://github.com/houselearning/docs/blob/main/markdown/api-key-standards.md).
