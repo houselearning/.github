@@ -92,7 +92,7 @@ Are you passionate about education, technology, and community? We’re looking f
 - **Follow us:** Stay up to date with our latest news and updates.
 - **Contribute:** We welcome contributions! Check out our repos and see where you can help.
 - **Reach out:** For questions or collaborations, contact us at [the discussions page](https://github.com/orgs/houselearning/discussions).
-
+- **Take our courses.** By taking & creating courses at [HouseLearning Courses](https://courses.houselearning.org), you can get involved with our lifestyle. 
 ## Support
 
 If you need help or want to support HouseLearning, here are some ways to get involved or seek assistance:
