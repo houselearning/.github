@@ -44,9 +44,9 @@ At HouseLearning, we believe in the power of education and community. Our platfo
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/loganlin233">
-        <img src="https://avatars.githubusercontent.com/loganlin233" width="70" alt="MEMBER2"/><br />
-        <sub><b>loganlin233</b></sub>
+      <a href="https://github.com/johnjames324212-creator">
+        <img src="https://avatars.githubusercontent.com/johnjames324212-creator" width="70" alt="MEMBER2"/><br />
+        <sub><b>johnjames324212-creator</b></sub>
       </a>
     </td>
     <td align="center">
