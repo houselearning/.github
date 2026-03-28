@@ -39,3 +39,5 @@ Feel free to report a vulnerability. To check the API key reporting rules, [clic
 <br>
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
+### Reporting an API KEY
+[Click here to report](https://forms.gle/Y5aa4KRAAyeeZNFAA)
